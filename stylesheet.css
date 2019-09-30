@@ -1,0 +1,70 @@
+.bg{
+    width:1260px;
+    height:880px;
+    background-color:#edf2c5;
+}
+.Vegetables {
+  width:271px;
+  height:62px;
+  font-family:Arial;
+  font-size:44px;
+  font-weight:normal;
+  font-stretch:normal;
+  line-height:0.82;
+  letter-spacing:normal;
+  text-align:left;
+  color:#778a50;
+}
+.btn_facebook{
+    width:25px;
+    height:25px;
+    object-fit:contain;
+}
+.btn_instagram{
+   width:25px;
+   height:25px;
+   object-fit:contain;
+}
+.btn_LOGIN_box{
+    width:60px;
+    height:25px;
+    border:solid 1px #778a50;
+}
+.LOGIN{
+    width:46px;
+    height:15px;
+    font-family:Arial;
+    font-size:14px;
+    font-weight:bold;
+    font-style:normal;
+    font-stretch:normal;
+    line-height:2.57;
+    letter-spacing:normal;
+    text-align:left;
+    color:#778a50;
+}
+.btn_JOIN_box{
+    width:49px;
+    height:25px;
+    border:solid 1px #778a50;
+}
+.JOIN{
+    width:35px;
+    height:15px;
+    font-family:Arial;
+    font-size:14px;
+    font-weight:bold;
+    font-style:normal;
+    font-stretch:normal;
+    line-height:2.57;
+    letter-spacing:normal;
+    text-align:left;
+    color:#778a50;
+}
+.nav_box{
+    width:940px;
+    height:44px;
+    border-radius:3px;
+    background-color:#778a50;
+}
+
